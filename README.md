@@ -1,2 +1,2 @@
 # ebook-programming-language
-repository unutk menyimpan file ebook bahasa pemrograman
+repository untuk menyimpan file ebook bahasa pemrograman
